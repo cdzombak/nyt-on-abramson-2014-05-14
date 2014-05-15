@@ -13,48 +13,93 @@
         "Baquet, Dean", 
         "Abramson, Jill"
     ], 
-    "lastPublishedTs": 1400101925, 
+    "lastPublishedTs": 1400102362, 
     "printEdition": "The New York Times on the Web", 
     "printHeadline": "Jill Abramson Being Replaced as Top Editor at Times", 
     "printPubDate": 1400126400, 
     "pubDate": 1400126400, 
     "relatedAssets": [
         {
-            "caption": "Dean Baquet", 
-            "credit": "Doug Mills/The New York Times", 
+            "caption": "Dean Baquet spoke to hundreds of staff members gathered in the newsroom on Wednesday.", 
+            "credit": "Todd Heisler/The New York Times", 
             "crops": {
                 "largeHorizontal375": {
                     "height": 250, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-largeHorizontal375-v3.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-largeHorizontal375.jpg", 
                     "width": 375
                 }, 
                 "popup": {
-                    "height": 452, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-popup.jpg", 
+                    "height": 433, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-popup.jpg", 
                     "width": 650
                 }, 
                 "thumbLarge": {
                     "height": 150, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-thumbLarge-v2.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-thumbLarge.jpg", 
                     "width": 150
                 }, 
                 "videoLarge": {
                     "height": 507, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-videoLarge-v3.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoLarge.jpg", 
                     "width": 768
                 }, 
                 "videoSixteenByNine310": {
                     "height": 174, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-videoSixteenByNine310-v3.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoSixteenByNine310.jpg", 
                     "width": 310
                 }, 
                 "videoSixteenByNine480": {
                     "height": 270, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-videoSixteenByNine480-v3.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoSixteenByNine480.jpg", 
                     "width": 480
                 }
             }, 
-            "id": 100000002880521, 
+            "id": 100000002880859, 
+            "print_information": {
+                "height": null, 
+                "page": null, 
+                "publication_dt": null, 
+                "section": null, 
+                "width": null
+            }, 
+            "type": "image"
+        }, 
+        {
+            "caption": "Mr. Baquet listened as Arthur Sulzberger Jr. announced the change in leadership at the newspaper.", 
+            "credit": "Earl Wilson/The New York Times", 
+            "crops": {
+                "largeHorizontal375": {
+                    "height": 250, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-largeHorizontal375.jpg", 
+                    "width": 375
+                }, 
+                "popup": {
+                    "height": 433, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-popup.jpg", 
+                    "width": 650
+                }, 
+                "thumbLarge": {
+                    "height": 150, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-thumbLarge.jpg", 
+                    "width": 150
+                }, 
+                "videoLarge": {
+                    "height": 507, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-videoLarge.jpg", 
+                    "width": 768
+                }, 
+                "videoSixteenByNine310": {
+                    "height": 174, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-videoSixteenByNine310.jpg", 
+                    "width": 310
+                }, 
+                "videoSixteenByNine480": {
+                    "height": 270, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-videoSixteenByNine480.jpg", 
+                    "width": 480
+                }
+            }, 
+            "id": 100000002880861, 
             "print_information": {
                 "height": null, 
                 "page": null, 
@@ -69,41 +114,41 @@
     "sectionDisplayName": "Business Day", 
     "sectionFrontImages": [
         {
-            "caption": "Dean Baquet", 
-            "credit": "Doug Mills/The New York Times", 
+            "caption": "Dean Baquet spoke to hundreds of staff members gathered in the newsroom on Wednesday.", 
+            "credit": "Todd Heisler/The New York Times", 
             "crops": {
                 "largeHorizontal375": {
                     "height": 250, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-largeHorizontal375-v3.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-largeHorizontal375.jpg", 
                     "width": 375
                 }, 
                 "popup": {
-                    "height": 452, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-popup.jpg", 
+                    "height": 433, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-popup.jpg", 
                     "width": 650
                 }, 
                 "thumbLarge": {
                     "height": 150, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-thumbLarge-v2.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-thumbLarge.jpg", 
                     "width": 150
                 }, 
                 "videoLarge": {
                     "height": 507, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-videoLarge-v3.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoLarge.jpg", 
                     "width": 768
                 }, 
                 "videoSixteenByNine310": {
                     "height": 174, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-videoSixteenByNine310-v3.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoSixteenByNine310.jpg", 
                     "width": 310
                 }, 
                 "videoSixteenByNine480": {
                     "height": 270, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/timestopics/15times/15times-videoSixteenByNine480-v3.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoSixteenByNine480.jpg", 
                     "width": 480
                 }
             }, 
-            "id": 100000002880521, 
+            "id": 100000002880859, 
             "print_information": {
                 "height": null, 
                 "page": null, 
