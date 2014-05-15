@@ -13,12 +13,57 @@
         "Baquet, Dean", 
         "Abramson, Jill"
     ], 
-    "lastPublishedTs": 1400104044, 
+    "lastPublishedTs": 1400104125, 
     "printEdition": "The New York Times on the Web", 
     "printHeadline": "Jill Abramson Being Replaced as Top Editor at Times", 
     "printPubDate": 1400126400, 
     "pubDate": 1400126400, 
     "relatedAssets": [
+        {
+            "caption": "Dean Baquet spoke to hundreds of staff members gathered in the newsroom on Wednesday.", 
+            "credit": "Todd Heisler/The New York Times", 
+            "crops": {
+                "largeHorizontal375": {
+                    "height": 250, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-largeHorizontal375.jpg", 
+                    "width": 375
+                }, 
+                "popup": {
+                    "height": 433, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-popup.jpg", 
+                    "width": 650
+                }, 
+                "thumbLarge": {
+                    "height": 150, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-thumbLarge.jpg", 
+                    "width": 150
+                }, 
+                "videoLarge": {
+                    "height": 507, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoLarge.jpg", 
+                    "width": 768
+                }, 
+                "videoSixteenByNine310": {
+                    "height": 174, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoSixteenByNine310.jpg", 
+                    "width": 310
+                }, 
+                "videoSixteenByNine480": {
+                    "height": 270, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoSixteenByNine480.jpg", 
+                    "width": 480
+                }
+            }, 
+            "id": 100000002880859, 
+            "print_information": {
+                "height": null, 
+                "page": null, 
+                "publication_dt": null, 
+                "section": null, 
+                "width": null
+            }, 
+            "type": "image"
+        }, 
         {
             "caption": "Jill Abramson in 2013.", 
             "credit": "Earl Wilson/The New York Times", 
@@ -114,41 +159,41 @@
     "sectionDisplayName": "Business Day", 
     "sectionFrontImages": [
         {
-            "caption": "Jill Abramson in 2013.", 
-            "credit": "Earl Wilson/The New York Times", 
+            "caption": "Dean Baquet spoke to hundreds of staff members gathered in the newsroom on Wednesday.", 
+            "credit": "Todd Heisler/The New York Times", 
             "crops": {
                 "largeHorizontal375": {
                     "height": 250, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-largeHorizontal375-v4.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-largeHorizontal375.jpg", 
                     "width": 375
                 }, 
                 "popup": {
-                    "height": 434, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-popup-v4.jpg", 
+                    "height": 433, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-popup.jpg", 
                     "width": 650
                 }, 
                 "thumbLarge": {
                     "height": 150, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-thumbLarge-v4.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-thumbLarge.jpg", 
                     "width": 150
                 }, 
                 "videoLarge": {
                     "height": 507, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-videoLarge-v4.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoLarge.jpg", 
                     "width": 768
                 }, 
                 "videoSixteenByNine310": {
                     "height": 174, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-videoSixteenByNine310-v4.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoSixteenByNine310.jpg", 
                     "width": 310
                 }, 
                 "videoSixteenByNine480": {
                     "height": 270, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-videoSixteenByNine480-v4.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times2/15times2-videoSixteenByNine480.jpg", 
                     "width": 480
                 }
             }, 
-            "id": 100000002880973, 
+            "id": 100000002880859, 
             "print_information": {
                 "height": null, 
                 "page": null, 
