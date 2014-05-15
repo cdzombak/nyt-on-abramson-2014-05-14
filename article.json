@@ -17,14 +17,14 @@
         "Baquet, Dean", 
         "Abramson, Jill"
     ], 
-    "lastPublishedTs": 1400117077, 
+    "lastPublishedTs": 1400117918, 
     "printEdition": "The New York Times on the Web", 
     "printHeadline": "Times Ousts Its Executive Editor, Elevating Second-in-Command ", 
     "printPubDate": 1400126400, 
     "pubDate": 1400126400, 
     "relatedAssets": [
         {
-            "caption": "Dean Baquet spoke to hundreds of staff members gathered in the newsroom on Wednesday.", 
+            "caption": "Dean Baquet addressing the Times staff in the newsroom Wednesday afternoon after he was named as the new executive editor.", 
             "credit": "Todd Heisler/The New York Times", 
             "crops": {
                 "largeHorizontal375": {
@@ -69,47 +69,47 @@
             "type": "image"
         }, 
         {
-            "caption": "Jill Abramson in 2013.", 
-            "credit": "Earl Wilson/The New York Times", 
+            "caption": "Jill Abramson, The Times’s first female executive editor.", 
+            "credit": "Fred R. Conrad/The New York Times", 
             "crops": {
                 "largeHorizontal375": {
                     "height": 250, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-largeHorizontal375-v4.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/TIMES2/TIMES2-largeHorizontal375.jpg", 
                     "width": 375
                 }, 
                 "popup": {
-                    "height": 434, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-popup-v4.jpg", 
-                    "width": 650
+                    "height": 500, 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/TIMES2/TIMES2-popup.jpg", 
+                    "width": 343
                 }, 
                 "thumbLarge": {
                     "height": 150, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-thumbLarge-v4.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/TIMES2/TIMES2-thumbLarge.jpg", 
                     "width": 150
                 }, 
                 "videoLarge": {
                     "height": 507, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-videoLarge-v4.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/TIMES2/TIMES2-videoLarge.jpg", 
                     "width": 768
                 }, 
                 "videoSixteenByNine310": {
                     "height": 174, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-videoSixteenByNine310-v4.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/TIMES2/TIMES2-videoSixteenByNine310.jpg", 
                     "width": 310
                 }, 
                 "videoSixteenByNine480": {
                     "height": 270, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times4/15times4-videoSixteenByNine480-v4.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/TIMES2/TIMES2-videoSixteenByNine480.jpg", 
                     "width": 480
                 }
             }, 
-            "id": 100000002880973, 
+            "id": 100000002881174, 
             "print_information": {
-                "height": null, 
-                "page": null, 
-                "publication_dt": null, 
-                "section": null, 
-                "width": null
+                "height": "5.20", 
+                "page": "2", 
+                "publication_dt": 1400126400, 
+                "section": "B", 
+                "width": "7.65"
             }, 
             "type": "image"
         }, 
@@ -163,7 +163,7 @@
     "sectionDisplayName": "Business Day", 
     "sectionFrontImages": [
         {
-            "caption": "Dean Baquet spoke to hundreds of staff members gathered in the newsroom on Wednesday.", 
+            "caption": "Dean Baquet addressing the Times staff in the newsroom Wednesday afternoon after he was named as the new executive editor.", 
             "credit": "Todd Heisler/The New York Times", 
             "crops": {
                 "largeHorizontal375": {
