@@ -13,7 +13,7 @@
         "Baquet, Dean", 
         "Abramson, Jill"
     ], 
-    "lastPublishedTs": 1400104125, 
+    "lastPublishedTs": 1400105181, 
     "printEdition": "The New York Times on the Web", 
     "printHeadline": "Jill Abramson Being Replaced as Top Editor at Times", 
     "printPubDate": 1400126400, 
@@ -110,41 +110,41 @@
             "type": "image"
         }, 
         {
-            "caption": "Mr. Baquet listened as Arthur Sulzberger Jr. announced the change in leadership at the newspaper.", 
+            "caption": "Arthur Sulzberger Jr., left, and Mr. Baquet on Wednesday.", 
             "credit": "Earl Wilson/The New York Times", 
             "crops": {
                 "largeHorizontal375": {
                     "height": 250, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-largeHorizontal375.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times6/15times6-largeHorizontal375.jpg", 
                     "width": 375
                 }, 
                 "popup": {
                     "height": 433, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-popup.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times6/15times6-popup.jpg", 
                     "width": 650
                 }, 
                 "thumbLarge": {
                     "height": 150, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-thumbLarge.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times6/15times6-thumbLarge.jpg", 
                     "width": 150
                 }, 
                 "videoLarge": {
                     "height": 507, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-videoLarge.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times6/15times6-videoLarge.jpg", 
                     "width": 768
                 }, 
                 "videoSixteenByNine310": {
                     "height": 174, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-videoSixteenByNine310.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times6/15times6-videoSixteenByNine310.jpg", 
                     "width": 310
                 }, 
                 "videoSixteenByNine480": {
                     "height": 270, 
-                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15time3/15time3-videoSixteenByNine480.jpg", 
+                    "url": "http://graphics8.nytimes.com/images/2014/05/15/business/15times6/15times6-videoSixteenByNine480.jpg", 
                     "width": 480
                 }
             }, 
-            "id": 100000002880861, 
+            "id": 100000002881073, 
             "print_information": {
                 "height": null, 
                 "page": null, 
