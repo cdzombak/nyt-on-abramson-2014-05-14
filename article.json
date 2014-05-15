@@ -17,7 +17,7 @@
         "Baquet, Dean", 
         "Abramson, Jill"
     ], 
-    "lastPublishedTs": 1400116257, 
+    "lastPublishedTs": 1400116368, 
     "printEdition": "The New York Times on the Web", 
     "printHeadline": "Times Ousts Its Executive Editor, Elevating Second-in-Command ", 
     "printPubDate": 1400126400, 
@@ -60,11 +60,11 @@
             }, 
             "id": 100000002880859, 
             "print_information": {
-                "height": null, 
-                "page": null, 
-                "publication_dt": null, 
-                "section": null, 
-                "width": null
+                "height": "5.20", 
+                "page": "2", 
+                "publication_dt": 1400126400, 
+                "section": "B", 
+                "width": "7.65"
             }, 
             "type": "image"
         }, 
@@ -199,11 +199,11 @@
             }, 
             "id": 100000002880859, 
             "print_information": {
-                "height": null, 
-                "page": null, 
-                "publication_dt": null, 
-                "section": null, 
-                "width": null
+                "height": "5.20", 
+                "page": "2", 
+                "publication_dt": 1400126400, 
+                "section": "B", 
+                "width": "7.65"
             }, 
             "type": "image"
         }
